@@ -1,0 +1,5 @@
+# Generated when the program is built or run.
+library
+data/library.dat
+data/library.dat.tmp
+data/keys/
